@@ -1,0 +1,54 @@
+body {
+    padding-top: 70px;
+    background-image: url("https://images.unsplash.com/12/sky.JPG?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=f486b1f155fa851e6ec49630af99aaa9");
+    background-size: cover;
+    background-position: center;
+    
+}
+
+html {
+    height: 100%;
+}
+
+#quote {
+    font-size: 35px;
+}
+
+.jumbotron {
+    height: 25%;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background: #f4faff;
+    background-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+h4 {
+    text-align: right;
+    padding-right: 35%;
+}
+
+.btn {
+    margin-left: 50%;
+}
+
+.social-media {
+    margin-right: 50%;
+}
+
+#twitterbutton {
+    height: 40px;
+    width: 40px;
+}
+
+p {
+    text-align: center;
+    color: white;
+    margin-top: -25px;
+    background-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+            0px 8px 13px rgba(0,0,0,0.1),
+            0px 18px 23px rgba(0,0,0,0.1);
+}
